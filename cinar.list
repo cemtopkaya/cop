@@ -1,0 +1,4 @@
+deb [trusted=yes] http://192.168.13.173:8080/repos/thirdparty/ amd64/
+deb [trusted=yes] http://192.168.13.173:8080/repos/latest/ amd64/
+deb [trusted=yes] http://192.168.13.173:8080/repos/new_interworking/ amd64/
+deb [trusted=yes] http://192.168.13.173:8080/repos/cinar/ amd64/
