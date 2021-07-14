@@ -4,4 +4,4 @@ deb [trusted=yes] http://192.168.13.173:8080/repos/new_interworking/ amd64/
 deb [trusted=yes] http://192.168.13.173:8080/repos/cinar/ amd64/
 deb [trusted=yes] http://192.168.13.173:8080/repos/MC/ amd64/
 # deb [trusted=yes] http://ppa.launchpad.net/redislab/redis/ubuntu/ xenial main
-deb [trusted=yes] http://ppa.launchpad.net/redislab/redis/ubuntu xenial main
+deb http://ppa.launchpad.net/redislabs/redis/ubuntu xenial main
