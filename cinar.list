@@ -1,7 +1,7 @@
-deb [trusted=yes] http://192.168.13.173:8080/repos/thirdparty/ amd64/
-deb [trusted=yes] http://192.168.13.173:8080/repos/latest/ amd64/
-deb [trusted=yes] http://192.168.13.173:8080/repos/new_interworking/ amd64/
-deb [trusted=yes] http://192.168.13.173:8080/repos/cinar/ amd64/
-deb [trusted=yes] http://192.168.13.173:8080/repos/MC/ amd64/
+deb [trusted=yes] http://debrepo-cinar.ulakhaberlesme.com.tr/repos/xenial/thirdparty/ amd64/
+deb [trusted=yes] http://debrepo-cinar.ulakhaberlesme.com.tr/repos/xenial/latest/ amd64/
+deb [trusted=yes] http://debrepo-cinar.ulakhaberlesme.com.tr/repos/xenial/new_interworking/ amd64/
+deb [trusted=yes] http://debrepo-cinar.ulakhaberlesme.com.tr/repos/xenial/cinar/ amd64/
+deb [trusted=yes] http://debrepo-cinar.ulakhaberlesme.com.tr/repos/xenial/MC/ amd64/
 # deb [trusted=yes] http://ppa.launchpad.net/redislabs/redis/ubuntu xenial main
 # deb http://ppa.launchpad.net/redislabs/redis/ubuntu xenial main
